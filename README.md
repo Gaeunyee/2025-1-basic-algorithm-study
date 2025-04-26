@@ -20,7 +20,7 @@ lecture note: 강의록 폴더
 
 4주차-다이나믹 프로그래밍
 
-<>
+<https://youtu.be/zAO8NhrojcQ>
 
 5주차-이분 탐색
 
