@@ -28,11 +28,11 @@ lecture note: 강의록 폴더
 
 6주차-스택, 덱, 우선순위 큐
 
-<>
+<https://youtu.be/lY9RbD4JR38>
 
 7주차-그리디 알고리즘
 
-<>
+<https://youtu.be/JNzZeJ6-Kig>
 
 8주차-그래프 탐색
 
