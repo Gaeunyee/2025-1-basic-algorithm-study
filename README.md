@@ -36,6 +36,6 @@ lecture note: 강의록 폴더
 
 8주차-그래프 탐색
 
-<>
+<https://youtu.be/1sC3gAVWW_Q>
 
 녹화 실수로 앞부분이 잘린 영상이 있습니다.
