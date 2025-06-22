@@ -24,7 +24,7 @@ lecture note: 강의록 폴더
 
 5주차-이분 탐색
 
-<>
+<https://youtu.be/WGEfTWAzLTM>
 
 6주차-스택, 덱, 우선순위 큐
 
